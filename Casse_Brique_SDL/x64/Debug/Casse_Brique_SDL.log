@@ -1,0 +1,40 @@
+﻿  ball.cpp
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(7,8): error C3646: 'stPlayer' : spécificateur de substitution inconnu
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(7,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,8): error C3646: 'etatPlayer' : spécificateur de substitution inconnu
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,18): error C2059: erreur de syntaxe : '('
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,20): error C2238: jetons inattendus avant ';'
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(29,22): error C2061: erreur de syntaxe : identificateur 'state'
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\ball.cpp(47,17): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+  brique.cpp
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(7,8): error C3646: 'stPlayer' : spécificateur de substitution inconnu
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(7,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,8): error C3646: 'etatPlayer' : spécificateur de substitution inconnu
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,18): error C2059: erreur de syntaxe : '('
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,20): error C2238: jetons inattendus avant ';'
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(29,22): error C2061: erreur de syntaxe : identificateur 'state'
+  cVue.cpp
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(7,8): error C3646: 'stPlayer' : spécificateur de substitution inconnu
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(7,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,8): error C3646: 'etatPlayer' : spécificateur de substitution inconnu
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,18): error C2059: erreur de syntaxe : '('
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,20): error C2238: jetons inattendus avant ';'
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(29,22): error C2061: erreur de syntaxe : identificateur 'state'
+  main.cpp
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(7,8): error C3646: 'stPlayer' : spécificateur de substitution inconnu
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(7,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,8): error C3646: 'etatPlayer' : spécificateur de substitution inconnu
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,18): error C2059: erreur de syntaxe : '('
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(23,20): error C2238: jetons inattendus avant ';'
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(29,22): error C2061: erreur de syntaxe : identificateur 'state'
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\main.cpp(92,54): error C2660: 'player::setPlayerState' : la fonction ne prend pas 1 arguments
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(29,7): message : voir la déclaration de 'player::setPlayerState'
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\main.cpp(96,55): error C2660: 'player::setPlayerState' : la fonction ne prend pas 1 arguments
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(29,7): message : voir la déclaration de 'player::setPlayerState'
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\main.cpp(105,54): error C2660: 'player::setPlayerState' : la fonction ne prend pas 1 arguments
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\player.h(29,7): message : voir la déclaration de 'player::setPlayerState'
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\main.cpp(123): error C2102: '&' nécessite une l-value
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\main.cpp(124): error C2102: '&' nécessite une l-value
+C:\Users\Quentin\Desktop\FD I\Algo\AlgoLehmann\cpp_20202021\Casse_Brique_SDL\Casse_Brique_SDL\main.cpp(133): error C2102: '&' nécessite une l-value
+  player.cpp
+  Génération de code en cours...
